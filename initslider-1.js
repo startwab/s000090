@@ -9,8 +9,8 @@ jQuery(document).ready(function(){
     jQuery("#amazingslider-1").amazingslider({
         sliderid:1,
         jsfolder:jsFolder,
-        width:900,
-        height:500,
+        width:750,
+        height:400,
         skinsfoldername:"",
         loadimageondemand:false,
         videohidecontrols:false,
